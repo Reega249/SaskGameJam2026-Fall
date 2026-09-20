@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"list":[{"code":355,"indent":0,"parameters":["var slot_max = 6;"]},{"code":655,"indent":0,"parameters":[""]},{"code":655,"indent":0,"parameters":["$gameVariables.setValue(2,(Math.floor(Math.random() * (slot_max+1))));"]},{"code":655,"indent":0,"parameters":["$gameVariables.setValue(3,(Math.floor(Math.random() * (slot_max+1))));"]},{"code":655,"indent":0,"parameters":["$gameVariables.setValue(4,(Math.floor(Math.random() * (slot_max+1))));"]},{"code":0,"indent":0,"parameters":[]}],"name":"Slot Machine","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You try to attack the patient?!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["You think to yourself, why would I do this?"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["I don't want to lose my job!"]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["and decide to do no damage."]},{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["What a waste of a turn....."]},{"code":0,"indent":0,"parameters":[]}],"name":"Attack Text","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
