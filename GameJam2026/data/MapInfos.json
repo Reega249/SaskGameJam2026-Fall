@@ -1,10 +1,10 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Front","order":1,"parentId":0,"scrollX":534,"scrollY":387},
-{"id":2,"expanded":false,"name":"Clinic","order":2,"parentId":0,"scrollX":534,"scrollY":387},
+{"id":2,"expanded":false,"name":"Clinic","order":2,"parentId":0,"scrollX":819,"scrollY":475.5},
 {"id":3,"expanded":false,"name":"Admin","order":3,"parentId":0,"scrollX":582.5454545454546,"scrollY":387.2727272727273},
 {"id":4,"expanded":false,"name":"Surgery","order":4,"parentId":0,"scrollX":582.5454545454546,"scrollY":387.2727272727273},
 {"id":5,"expanded":false,"name":"Cafe","order":5,"parentId":0,"scrollX":582.5454545454546,"scrollY":387.2727272727273},
 {"id":6,"expanded":false,"name":"Home","order":6,"parentId":0,"scrollX":819,"scrollY":475.5},
-{"id":7,"expanded":false,"name":"Basement","order":7,"parentId":0,"scrollX":591.2727272727273,"scrollY":332.72727272727275}
+{"id":7,"expanded":false,"name":"Basement","order":7,"parentId":0,"scrollX":819,"scrollY":475.5}
 ]
